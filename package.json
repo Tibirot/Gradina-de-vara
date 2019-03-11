@@ -1,0 +1,23 @@
+{
+  "name": "gdv",
+  "version": "1.0.0",
+  "description": "Gradina de Vara",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tibirot/Gradina-de-vara.git"
+  },
+  "author": "Socea Tiberiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tibirot/Gradina-de-vara/issues"
+  },
+  "homepage": "https://github.com/Tibirot/Gradina-de-vara#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
