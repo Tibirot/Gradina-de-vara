@@ -1,0 +1,88 @@
+h1, h3 {
+  font-family: 'Pacifico', cursive;
+  font-size: 5rem;
+  padding-bottom: 3%;
+}
+
+p {
+  font-family: 'Righteous', cursive;
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+hr {
+  margin: 0 auto;
+  border: 5px solid #353942;
+  border-style: none none solid;
+}
+
+.body {
+  padding-top: 70px;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.title {
+  background-image: url(https://helpappeal.org.uk/wp-content/uploads/2015/09/6-summer-garden-themes.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #000;
+  text-align: center;
+  line-height: 2;
+  padding: 4rem 0;
+}
+
+.carousel-inner > .carousel-item > img, .carousel-inner > .carousel-item > a > img {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.carousel{
+  background-color: #cce490;
+}
+
+.about {
+  background-color: #cce490;
+  color: #0d627a;
+  padding: 4rem 12rem;
+  text-align: center;
+}
+
+.about-text {
+  padding-bottom: 3rem;
+  text-align: left;
+}
+
+.kegs {
+  position: relative;
+  float: right;
+  width: 40%;
+  padding-left: 3rem;
+}
+
+.bbq {
+  position: relative;
+  float: left;
+  width: 40%;
+  padding-right: 3rem;
+}
+
+.footer {
+  padding: 2% 0 0;
+  background-color: #0c907d;
+  color: #f2f4b2;
+  text-align: center;
+  line-height: 1;
+}
+
+.copyright {
+  color: #000;
+  font-size: 1.5rem;
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
